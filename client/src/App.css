@@ -1,0 +1,18 @@
+body {
+  background: #bfbfbf;
+  margin-top: 25px;
+}
+
+.header {
+  height: 10vh;
+  background: #404040;
+  color: white;
+}
+
+.header h1 {
+  padding: 1.2%;
+}
+
+.my-modal {
+  color: Black;
+}

@@ -1,0 +1,16 @@
+.lister {
+    width: 100%;
+    margin-top: 3%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.table-body {
+    background: #fafafa;
+}
+
+.modal {
+    color: black;
+}
